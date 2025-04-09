@@ -1,0 +1,2272 @@
+{
+    "music": {
+        "easy": [
+            {
+                "question": "Who sang 'Shape of You'?",
+                "choices": [
+                    "Ed Sheeran",
+                    "Bruno Mars",
+                    "Justin Bieber",
+                    "Shawn Mendes"
+                ],
+                "answer": "Ed Sheeran"
+            },
+            {
+                "question": "What is the real name of the rapper Eminem?",
+                "choices": [
+                    "Marshall Mathers",
+                    "Curtis Jackson",
+                    "Andre Young",
+                    "Calvin Broadus"
+                ],
+                "answer": "Marshall Mathers"
+            },
+            {
+                "question": "Which artist is known for the moonwalk dance?",
+                "choices": [
+                    "Chris Brown",
+                    "Usher",
+                    "Michael Jackson",
+                    "Ne-Yo"
+                ],
+                "answer": "Michael Jackson"
+            },
+            {
+                "question": "Which of these is a musical instrument?",
+                "choices": [
+                    "Picasso",
+                    "Violin",
+                    "Monet",
+                    "Chisel"
+                ],
+                "answer": "Violin"
+            },
+            {
+                "question": "Which band released 'Bohemian Rhapsody'?",
+                "choices": [
+                    "Queen",
+                    "The Beatles",
+                    "Pink Floyd",
+                    "AC/DC"
+                ],
+                "answer": "Queen"
+            },
+            {
+                "question": "What genre is Taylor Swift known for?",
+                "choices": [
+                    "Pop",
+                    "Jazz",
+                    "Blues",
+                    "Classical"
+                ],
+                "answer": "Pop"
+            },
+            {
+                "question": "Which country is famous for reggae music?",
+                "choices": [
+                    "Jamaica",
+                    "USA",
+                    "Brazil",
+                    "Spain"
+                ],
+                "answer": "Jamaica"
+            },
+            {
+                "question": "Who is known as the King of Rock and Roll?",
+                "choices": [
+                    "Elvis Presley",
+                    "Chuck Berry",
+                    "Buddy Holly",
+                    "Little Richard"
+                ],
+                "answer": "Elvis Presley"
+            },
+            {
+                "question": "Which instrument has keys, pedals, and strings?",
+                "choices": [
+                    "Drum",
+                    "Piano",
+                    "Guitar",
+                    "Flute"
+                ],
+                "answer": "Piano"
+            },
+            {
+                "question": "Which singer is known for the hit 'Hello'?",
+                "choices": [
+                    "Adele",
+                    "Beyonc\u00e9",
+                    "Rihanna",
+                    "Katy Perry"
+                ],
+                "answer": "Adele"
+            },
+            {
+                "question": "Which band is known for the song 'Yellow'?",
+                "choices": [
+                    "Coldplay",
+                    "U2",
+                    "Maroon 5",
+                    "The Script"
+                ],
+                "answer": "Coldplay"
+            },
+            {
+                "question": "What genre of music is typically associated with Elvis Presley?",
+                "choices": [
+                    "Rock and Roll",
+                    "Hip Hop",
+                    "Jazz",
+                    "Pop"
+                ],
+                "answer": "Rock and Roll"
+            },
+            {
+                "question": "Which instrument has black and white keys?",
+                "choices": [
+                    "Piano",
+                    "Guitar",
+                    "Drums",
+                    "Violin"
+                ],
+                "answer": "Piano"
+            },
+            {
+                "question": "Which pop singer released the album '1989'?",
+                "choices": [
+                    "Taylor Swift",
+                    "Selena Gomez",
+                    "Ariana Grande",
+                    "Dua Lipa"
+                ],
+                "answer": "Taylor Swift"
+            },
+            {
+                "question": "Which classical composer became deaf later in life?",
+                "choices": [
+                    "Beethoven",
+                    "Mozart",
+                    "Bach",
+                    "Chopin"
+                ],
+                "answer": "Beethoven"
+            },
+            {
+                "question": "Which female artist is known for the song 'Rolling in the Deep'?",
+                "choices": [
+                    "Adele",
+                    "Rihanna",
+                    "Lady Gaga",
+                    "Beyonc\u00e9"
+                ],
+                "answer": "Adele"
+            },
+            {
+                "question": "Which music award is considered the most prestigious?",
+                "choices": [
+                    "Grammy",
+                    "Oscar",
+                    "Tony",
+                    "Golden Globe"
+                ],
+                "answer": "Grammy"
+            },
+            {
+                "question": "Which instrument typically has six strings?",
+                "choices": [
+                    "Guitar",
+                    "Flute",
+                    "Piano",
+                    "Drum"
+                ],
+                "answer": "Guitar"
+            },
+            {
+                "question": "Which artist is known for the song 'Blinding Lights'?",
+                "choices": [
+                    "The Weeknd",
+                    "Drake",
+                    "Khalid",
+                    "Post Malone"
+                ],
+                "answer": "The Weeknd"
+            },
+            {
+                "question": "What is the stage name of Stefani Germanotta?",
+                "choices": [
+                    "Lady Gaga",
+                    "Lana Del Rey",
+                    "Halsey",
+                    "Doja Cat"
+                ],
+                "answer": "Lady Gaga"
+            }
+        ],
+        "medium": [
+            {
+                "question": "Which band was Freddie Mercury the lead singer of?",
+                "choices": [
+                    "Queen",
+                    "The Rolling Stones",
+                    "Nirvana",
+                    "The Who"
+                ],
+                "answer": "Queen"
+            },
+            {
+                "question": "Which classical composer was deaf?",
+                "choices": [
+                    "Mozart",
+                    "Beethoven",
+                    "Bach",
+                    "Tchaikovsky"
+                ],
+                "answer": "Beethoven"
+            },
+            {
+                "question": "Which rapper starred in '8 Mile'?",
+                "choices": [
+                    "Eminem",
+                    "Dr. Dre",
+                    "Kanye West",
+                    "Jay-Z"
+                ],
+                "answer": "Eminem"
+            },
+            {
+                "question": "The sitar is a traditional instrument from which country?",
+                "choices": [
+                    "India",
+                    "Japan",
+                    "Egypt",
+                    "Spain"
+                ],
+                "answer": "India"
+            },
+            {
+                "question": "Who composed 'The Four Seasons'?",
+                "choices": [
+                    "Vivaldi",
+                    "Mozart",
+                    "Handel",
+                    "Bach"
+                ],
+                "answer": "Vivaldi"
+            },
+            {
+                "question": "Which artist released the album '25'?",
+                "choices": [
+                    "Adele",
+                    "Lorde",
+                    "Rihanna",
+                    "Dua Lipa"
+                ],
+                "answer": "Adele"
+            },
+            {
+                "question": "Who is the lead singer of U2?",
+                "choices": [
+                    "Bono",
+                    "Sting",
+                    "Bowie",
+                    "Cobain"
+                ],
+                "answer": "Bono"
+            },
+            {
+                "question": "Which artist is known for the 'Purple Rain' album?",
+                "choices": [
+                    "Prince",
+                    "Stevie Wonder",
+                    "Elton John",
+                    "Michael Jackson"
+                ],
+                "answer": "Prince"
+            },
+            {
+                "question": "Which city is considered the birthplace of jazz?",
+                "choices": [
+                    "New Orleans",
+                    "Chicago",
+                    "New York",
+                    "Los Angeles"
+                ],
+                "answer": "New Orleans"
+            },
+            {
+                "question": "Which British singer sang 'Thinking Out Loud'?",
+                "choices": [
+                    "Ed Sheeran",
+                    "Sam Smith",
+                    "George Ezra",
+                    "James Blunt"
+                ],
+                "answer": "Ed Sheeran"
+            },
+            {
+                "question": "Which famous festival took place in 1969 and is considered a pivotal moment in music history?",
+                "choices": [
+                    "Woodstock",
+                    "Coachella",
+                    "Lollapalooza",
+                    "Glastonbury"
+                ],
+                "answer": "Woodstock"
+            },
+            {
+                "question": "Which singer\u2019s real name is Robyn Fenty?",
+                "choices": [
+                    "Rihanna",
+                    "Nicki Minaj",
+                    "Cardi B",
+                    "SZA"
+                ],
+                "answer": "Rihanna"
+            },
+            {
+                "question": "Which band released the album 'Rumours' in 1977?",
+                "choices": [
+                    "Fleetwood Mac",
+                    "The Eagles",
+                    "ABBA",
+                    "Queen"
+                ],
+                "answer": "Fleetwood Mac"
+            },
+            {
+                "question": "Which musical instrument is known for having 88 keys?",
+                "choices": [
+                    "Piano",
+                    "Harp",
+                    "Organ",
+                    "Accordion"
+                ],
+                "answer": "Piano"
+            },
+            {
+                "question": "What genre is most associated with Kendrick Lamar?",
+                "choices": [
+                    "Hip Hop",
+                    "R&B",
+                    "Pop",
+                    "Jazz"
+                ],
+                "answer": "Hip Hop"
+            },
+            {
+                "question": "Which classical composer is known for 'The Magic Flute'?",
+                "choices": [
+                    "Mozart",
+                    "Beethoven",
+                    "Haydn",
+                    "Bach"
+                ],
+                "answer": "Mozart"
+            },
+            {
+                "question": "Which artist performed the Super Bowl halftime show in 2023?",
+                "choices": [
+                    "Rihanna",
+                    "The Weeknd",
+                    "Eminem",
+                    "Shakira"
+                ],
+                "answer": "Rihanna"
+            },
+            {
+                "question": "What is the name of Beyonc\u00e9\u2019s first solo album?",
+                "choices": [
+                    "Dangerously in Love",
+                    "Lemonade",
+                    "B\u2019Day",
+                    "4"
+                ],
+                "answer": "Dangerously in Love"
+            },
+            {
+                "question": "Which band is Thom Yorke associated with?",
+                "choices": [
+                    "Radiohead",
+                    "Coldplay",
+                    "Muse",
+                    "Blur"
+                ],
+                "answer": "Radiohead"
+            },
+            {
+                "question": "What music streaming platform did Spotify overtake in popularity?",
+                "choices": [
+                    "Pandora",
+                    "Tidal",
+                    "Napster",
+                    "Amazon Music"
+                ],
+                "answer": "Pandora"
+            }
+        ],
+        "hard": [
+            {
+                "question": "What is the name of Radiohead's lead vocalist?",
+                "choices": [
+                    "Thom Yorke",
+                    "Chris Martin",
+                    "Matt Bellamy",
+                    "David Byrne"
+                ],
+                "answer": "Thom Yorke"
+            },
+            {
+                "question": "Which composer wrote the opera 'Carmen'?",
+                "choices": [
+                    "Bizet",
+                    "Verdi",
+                    "Puccini",
+                    "Rossini"
+                ],
+                "answer": "Bizet"
+            },
+            {
+                "question": "Which jazz legend was nicknamed 'Satchmo'?",
+                "choices": [
+                    "Louis Armstrong",
+                    "Miles Davis",
+                    "Charlie Parker",
+                    "Duke Ellington"
+                ],
+                "answer": "Louis Armstrong"
+            },
+            {
+                "question": "In what year did The Beatles officially break up?",
+                "choices": [
+                    "1970",
+                    "1969",
+                    "1971",
+                    "1972"
+                ],
+                "answer": "1970"
+            },
+            {
+                "question": "Which band released the album 'Dark Side of the Moon'?",
+                "choices": [
+                    "Pink Floyd",
+                    "Led Zeppelin",
+                    "The Doors",
+                    "The Who"
+                ],
+                "answer": "Pink Floyd"
+            },
+            {
+                "question": "What instrument does Yo-Yo Ma play?",
+                "choices": [
+                    "Cello",
+                    "Violin",
+                    "Piano",
+                    "Harp"
+                ],
+                "answer": "Cello"
+            },
+            {
+                "question": "Which American composer is known for 'Rhapsody in Blue'?",
+                "choices": [
+                    "George Gershwin",
+                    "Aaron Copland",
+                    "Leonard Bernstein",
+                    "Philip Glass"
+                ],
+                "answer": "George Gershwin"
+            },
+            {
+                "question": "What is Bj\u00f6rk's country of origin?",
+                "choices": [
+                    "Iceland",
+                    "Norway",
+                    "Sweden",
+                    "Finland"
+                ],
+                "answer": "Iceland"
+            },
+            {
+                "question": "What genre is Aphex Twin associated with?",
+                "choices": [
+                    "Electronic",
+                    "Rock",
+                    "Jazz",
+                    "Pop"
+                ],
+                "answer": "Electronic"
+            },
+            {
+                "question": "Which musical scale is often used in blues music?",
+                "choices": [
+                    "Pentatonic",
+                    "Chromatic",
+                    "Diatonic",
+                    "Whole Tone"
+                ],
+                "answer": "Pentatonic"
+            },
+            {
+                "question": "Which composer is known for 'The Rite of Spring'?",
+                "choices": [
+                    "Stravinsky",
+                    "Debussy",
+                    "Tchaikovsky",
+                    "Mahler"
+                ],
+                "answer": "Stravinsky"
+            },
+            {
+                "question": "Which jazz saxophonist pioneered bebop?",
+                "choices": [
+                    "Charlie Parker",
+                    "John Coltrane",
+                    "Dexter Gordon",
+                    "Stan Getz"
+                ],
+                "answer": "Charlie Parker"
+            },
+            {
+                "question": "Which band released the concept album 'The Wall'?",
+                "choices": [
+                    "Pink Floyd",
+                    "Yes",
+                    "Genesis",
+                    "King Crimson"
+                ],
+                "answer": "Pink Floyd"
+            },
+            {
+                "question": "Which artist is known for pioneering the 'ambient music' genre?",
+                "choices": [
+                    "Brian Eno",
+                    "Jean-Michel Jarre",
+                    "Aphex Twin",
+                    "Vangelis"
+                ],
+                "answer": "Brian Eno"
+            },
+            {
+                "question": "Which musical term indicates a gradual increase in loudness?",
+                "choices": [
+                    "Crescendo",
+                    "Allegro",
+                    "Forte",
+                    "Legato"
+                ],
+                "answer": "Crescendo"
+            },
+            {
+                "question": "What country is known for the traditional instrument 'Erhu'?",
+                "choices": [
+                    "China",
+                    "India",
+                    "Japan",
+                    "Thailand"
+                ],
+                "answer": "China"
+            },
+            {
+                "question": "Which album is the best-selling of all time worldwide?",
+                "choices": [
+                    "Thriller",
+                    "Back in Black",
+                    "The Dark Side of the Moon",
+                    "Hotel California"
+                ],
+                "answer": "Thriller"
+            },
+            {
+                "question": "What is the term for a group of eight notes in a scale?",
+                "choices": [
+                    "Octave",
+                    "Chord",
+                    "Interval",
+                    "Measure"
+                ],
+                "answer": "Octave"
+            },
+            {
+                "question": "Which producer is known for inventing the 'Wall of Sound' technique?",
+                "choices": [
+                    "Phil Spector",
+                    "Rick Rubin",
+                    "Dr. Dre",
+                    "Quincy Jones"
+                ],
+                "answer": "Phil Spector"
+            },
+            {
+                "question": "Which genre is known for using turntables and sampling?",
+                "choices": [
+                    "Hip Hop",
+                    "Rock",
+                    "Jazz",
+                    "Country"
+                ],
+                "answer": "Hip Hop"
+            }
+        ],
+        "impossible": [
+            {
+                "question": "Identify the composer of the opera 'Die Soldaten', known for its extreme difficulty.",
+                "choices": [
+                    "Bernd Alois Zimmermann",
+                    "Karlheinz Stockhausen",
+                    "Arnold Schoenberg",
+                    "Igor Stravinsky"
+                ],
+                "answer": "Bernd Alois Zimmermann"
+            },
+            {
+                "question": "What ancient musical instrument, believed to be a precursor to the oboe, was used in medieval times?",
+                "choices": [
+                    "Shawm",
+                    "Cornett",
+                    "Sackbut",
+                    "Crumhorn"
+                ],
+                "answer": "Shawm"
+            },
+            {
+                "question": "Which 20th-century symphony includes a percussion part that requires striking a large piece of railroad track?",
+                "choices": [
+                    "Symphony No. 6 by Philip Glass",
+                    "Symphony No. 4 by Charles Ives",
+                    "Symphony No. 1 by John Corigliano",
+                    "Symphony No. 2 by Henry Cowell"
+                ],
+                "answer": "Symphony No. 4 by Charles Ives"
+            },
+            {
+                "question": "Name the microtonal scale that Alois H\u00e1ba used for his 16th String Quartet.",
+                "choices": [
+                    "Fifth-tone scale",
+                    "Quarter-tone scale",
+                    "Sixth-tone scale",
+                    "Twelfth-tone scale"
+                ],
+                "answer": "Sixth-tone scale"
+            },
+            {
+                "question": "What is the term for the 22 microtone intervals found in traditional Indian Carnatic music?",
+                "choices": [
+                    "Sruti",
+                    "Svara",
+                    "Raga",
+                    "Tala"
+                ],
+                "answer": "Sruti"
+            },
+            {
+                "question": "Who composed the electronic piece 'Po\u00e8me \u00c9lectronique' for the 1958 Brussels World\u2019s Fair?",
+                "choices": [
+                    "Edgar Var\u00e8se",
+                    "Karlheinz Stockhausen",
+                    "John Cage",
+                    "Pierre Schaeffer"
+                ],
+                "answer": "Edgar Var\u00e8se"
+            },
+            {
+                "question": "Which composer is credited with pioneering the technique of serialism in the early 20th century?",
+                "choices": [
+                    "Arnold Schoenberg",
+                    "Igor Stravinsky",
+                    "Anton Webern",
+                    "Alban Berg"
+                ],
+                "answer": "Arnold Schoenberg"
+            },
+            {
+                "question": "Name the first opera written in the Esperanto language.",
+                "choices": [
+                    "Kruko kaj Baniko el Bervalo",
+                    "La lasta espero",
+                    "La nokto flugas",
+                    "Espero"
+                ],
+                "answer": "Kruko kaj Baniko el Bervalo"
+            },
+            {
+                "question": "What is the rare musical notation used in Baroque music to indicate improvisational ornamentation?",
+                "choices": [
+                    "Figured bass",
+                    "Basso continuo",
+                    "Chord symbols",
+                    "Tablature"
+                ],
+                "answer": "Figured bass"
+            },
+            {
+                "question": "Which instrument is known for its use in Ottoman military music?",
+                "choices": [
+                    "Mehter",
+                    "Zurna",
+                    "Ney",
+                    "Kemence"
+                ],
+                "answer": "Mehter"
+            },
+            {
+                "question": "What rare wood is used for making high-quality marimba bars?",
+                "choices": [
+                    "Honduran Rosewood",
+                    "African Blackwood",
+                    "Mahogany",
+                    "Maple"
+                ],
+                "answer": "Honduran Rosewood"
+            },
+            {
+                "question": "Name the jazz musician who was known for playing the vibraphone with just two mallets.",
+                "choices": [
+                    "Lionel Hampton",
+                    "Milt Jackson",
+                    "Gary Burton",
+                    "Red Norvo"
+                ],
+                "answer": "Red Norvo"
+            },
+            {
+                "question": "Which piece by John Cage involves preparing a piano with objects between its strings?",
+                "choices": [
+                    "Sonatas and Interludes",
+                    "4'33\"",
+                    "Imaginary Landscape No. 4",
+                    "Music of Changes"
+                ],
+                "answer": "Sonatas and Interludes"
+            },
+            {
+                "question": "Identify the tuning system used by Harry Partch in his custom-built instruments.",
+                "choices": [
+                    "Just intonation",
+                    "Equal temperament",
+                    "43-tone scale",
+                    "Pythagorean tuning"
+                ],
+                "answer": "43-tone scale"
+            },
+            {
+                "question": "What is the name of the largest pipe organ located in a concert hall?",
+                "choices": [
+                    "Wanamaker Organ",
+                    "Boardwalk Hall Auditorium Organ",
+                    "Sydney Town Hall Organ",
+                    "Atlantic City Convention Hall Organ"
+                ],
+                "answer": "Boardwalk Hall Auditorium Organ"
+            },
+            {
+                "question": "Which composer introduced the concept of 'Klangfarbenmelodie'?",
+                "choices": [
+                    "Arnold Schoenberg",
+                    "Anton Webern",
+                    "Igor Stravinsky",
+                    "Alban Berg"
+                ],
+                "answer": "Arnold Schoenberg"
+            },
+            {
+                "question": "Name the scale that consists of eight pitches traditionally used in Gregorian Chant.",
+                "choices": [
+                    "Hexachord",
+                    "Octave",
+                    "Mode",
+                    "Diatonic scale"
+                ],
+                "answer": "Mode"
+            },
+            {
+                "question": "Which musical work is considered the first example of electronic music, composed in 1948?",
+                "choices": [
+                    "Gesang der J\u00fcnglinge",
+                    "\u00c9tude aux chemins de fer",
+                    "Po\u00e8me \u00e9lectronique",
+                    "Musique Concr\u00e8te"
+                ],
+                "answer": "\u00c9tude aux chemins de fer"
+            },
+            {
+                "question": "What is the name of the technique where a string instrument is bowed by rotating a wheel instead of a traditional bow?",
+                "choices": [
+                    "Hurdy-gurdy",
+                    "Nyckelharpa",
+                    "Wheel fiddle",
+                    "Vielle"
+                ],
+                "answer": "Hurdy-gurdy"
+            },
+            {
+                "question": "Which contemporary composer is known for their extensive use of micro-intervals in orchestral works?",
+                "choices": [
+                    "Julian Carrillo",
+                    "Gy\u00f6rgy Ligeti",
+                    "Iannis Xenakis",
+                    "Kaija Saariaho"
+                ],
+                "answer": "Julian Carrillo"
+            }
+        ]
+    },
+    "bodybuilding": {
+        "easy": [
+            {
+                "question": "Which nutrient is essential for muscle growth?",
+                "choices": [
+                    "Protein",
+                    "Carbohydrate",
+                    "Fat",
+                    "Vitamin C"
+                ],
+                "answer": "Protein"
+            },
+            {
+                "question": "Which exercise targets the biceps?",
+                "choices": [
+                    "Bicep curl",
+                    "Squat",
+                    "Bench press",
+                    "Deadlift"
+                ],
+                "answer": "Bicep curl"
+            },
+            {
+                "question": "What is the common term for abdominal muscles?",
+                "choices": [
+                    "Abs",
+                    "Tris",
+                    "Lats",
+                    "Glutes"
+                ],
+                "answer": "Abs"
+            },
+            {
+                "question": "Which vitamin helps in calcium absorption?",
+                "choices": [
+                    "Vitamin D",
+                    "Vitamin A",
+                    "Vitamin C",
+                    "Vitamin B12"
+                ],
+                "answer": "Vitamin D"
+            },
+            {
+                "question": "Which of these is a compound movement?",
+                "choices": [
+                    "Deadlift",
+                    "Bicep curl",
+                    "Calf raise",
+                    "Crunch"
+                ],
+                "answer": "Deadlift"
+            },
+            {
+                "question": "How many days are in a typical bodybuilding split?",
+                "choices": [
+                    "5",
+                    "2",
+                    "10",
+                    "1"
+                ],
+                "answer": "5"
+            },
+            {
+                "question": "What is creatine commonly used for?",
+                "choices": [
+                    "Increasing strength",
+                    "Improving sleep",
+                    "Reducing stress",
+                    "Boosting immunity"
+                ],
+                "answer": "Increasing strength"
+            },
+            {
+                "question": "Which lift primarily targets the chest?",
+                "choices": [
+                    "Bench press",
+                    "Deadlift",
+                    "Squat",
+                    "Row"
+                ],
+                "answer": "Bench press"
+            },
+            {
+                "question": "DOMS stands for?",
+                "choices": [
+                    "Delayed Onset Muscle Soreness",
+                    "Daily Oxygen Muscle Strength",
+                    "Dumbbell Overhead Max Squat",
+                    "Deep Oxygen Mass Squeeze"
+                ],
+                "answer": "Delayed Onset Muscle Soreness"
+            },
+            {
+                "question": "What\u2019s the ideal rest between hypertrophy sets?",
+                "choices": [
+                    "30-90 seconds",
+                    "3 minutes",
+                    "10 seconds",
+                    "5 minutes"
+                ],
+                "answer": "30-90 seconds"
+            },
+            {
+                "question": "Which exercise strengthens the core?",
+                "choices": [
+                    "Plank",
+                    "Bench Press",
+                    "Deadlift",
+                    "Bicep Curl"
+                ],
+                "answer": "Plank"
+            },
+            {
+                "question": "What does 'reps' stand for in workouts?",
+                "choices": [
+                    "Repetitions",
+                    "Repeats",
+                    "Resistance",
+                    "Rounds"
+                ],
+                "answer": "Repetitions"
+            },
+            {
+                "question": "Which exercise mainly targets the shoulders?",
+                "choices": [
+                    "Overhead Press",
+                    "Squats",
+                    "Leg Curls",
+                    "Rows"
+                ],
+                "answer": "Overhead Press"
+            },
+            {
+                "question": "What is typically consumed post-workout for recovery?",
+                "choices": [
+                    "Protein Shake",
+                    "Soda",
+                    "Fruit Juice",
+                    "Ice Cream"
+                ],
+                "answer": "Protein Shake"
+            },
+            {
+                "question": "Which machine is used for cardiovascular training?",
+                "choices": [
+                    "Treadmill",
+                    "Smith Machine",
+                    "Cable Machine",
+                    "Leg Press"
+                ],
+                "answer": "Treadmill"
+            },
+            {
+                "question": "What is a common bodybuilding supplement?",
+                "choices": [
+                    "Creatine",
+                    "Caffeine Pills",
+                    "Vitamin A",
+                    "Iron"
+                ],
+                "answer": "Creatine"
+            },
+            {
+                "question": "What is the term for reducing body fat to show muscle?",
+                "choices": [
+                    "Cutting",
+                    "Bulking",
+                    "Pumping",
+                    "Cycling"
+                ],
+                "answer": "Cutting"
+            },
+            {
+                "question": "How many grams are in a kilogram?",
+                "choices": [
+                    "1000",
+                    "100",
+                    "10",
+                    "500"
+                ],
+                "answer": "1000"
+            },
+            {
+                "question": "Which nutrient is highest in chicken breast?",
+                "choices": [
+                    "Protein",
+                    "Fat",
+                    "Carbohydrate",
+                    "Sodium"
+                ],
+                "answer": "Protein"
+            },
+            {
+                "question": "What does 'gym' stand for in everyday speech?",
+                "choices": [
+                    "Gymnasium",
+                    "Gyroscope",
+                    "Gymastics",
+                    "Gymsuit"
+                ],
+                "answer": "Gymnasium"
+            }
+        ],
+        "medium": [
+            {
+                "question": "Which macronutrient provides the most calories per gram?",
+                "choices": [
+                    "Fat",
+                    "Protein",
+                    "Carbs",
+                    "Fiber"
+                ],
+                "answer": "Fat"
+            },
+            {
+                "question": "Which muscle is targeted by a lat pulldown?",
+                "choices": [
+                    "Lats",
+                    "Quads",
+                    "Calves",
+                    "Glutes"
+                ],
+                "answer": "Lats"
+            },
+            {
+                "question": "Which hormone is crucial for muscle growth?",
+                "choices": [
+                    "Testosterone",
+                    "Insulin",
+                    "Cortisol",
+                    "Estrogen"
+                ],
+                "answer": "Testosterone"
+            },
+            {
+                "question": "A superset involves:",
+                "choices": [
+                    "Two exercises back-to-back",
+                    "Maxing out a lift",
+                    "Cardio between sets",
+                    "Only bodyweight"
+                ],
+                "answer": "Two exercises back-to-back"
+            },
+            {
+                "question": "How much protein is typically recommended per kg of bodyweight for lifters?",
+                "choices": [
+                    "1.6-2.2g",
+                    "0.5g",
+                    "4g",
+                    "3g"
+                ],
+                "answer": "1.6-2.2g"
+            },
+            {
+                "question": "Which supplement helps with muscle pumps?",
+                "choices": [
+                    "Citrulline malate",
+                    "Fish oil",
+                    "Melatonin",
+                    "Magnesium"
+                ],
+                "answer": "Citrulline malate"
+            },
+            {
+                "question": "The overhead press mainly targets which muscle?",
+                "choices": [
+                    "Deltoids",
+                    "Hamstrings",
+                    "Forearms",
+                    "Calves"
+                ],
+                "answer": "Deltoids"
+            },
+            {
+                "question": "Bulking refers to:",
+                "choices": [
+                    "Caloric surplus to gain muscle",
+                    "Losing weight",
+                    "Maintaining weight",
+                    "Only cardio"
+                ],
+                "answer": "Caloric surplus to gain muscle"
+            },
+            {
+                "question": "The Romanian Deadlift primarily targets the:",
+                "choices": [
+                    "Hamstrings",
+                    "Biceps",
+                    "Chest",
+                    "Calves"
+                ],
+                "answer": "Hamstrings"
+            },
+            {
+                "question": "How many muscles are in the quadriceps group?",
+                "choices": [
+                    "4",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "answer": "4"
+            },
+            {
+                "question": "Which type of training alternates between high-intensity exercise and rest?",
+                "choices": [
+                    "HIIT",
+                    "LISS",
+                    "Tabata",
+                    "CrossFit"
+                ],
+                "answer": "HIIT"
+            },
+            {
+                "question": "Which vitamin helps with calcium absorption, important for muscle function?",
+                "choices": [
+                    "Vitamin D",
+                    "Vitamin C",
+                    "Vitamin A",
+                    "Vitamin K"
+                ],
+                "answer": "Vitamin D"
+            },
+            {
+                "question": "Which muscle group is primarily worked by squats?",
+                "choices": [
+                    "Quadriceps",
+                    "Biceps",
+                    "Triceps",
+                    "Deltoids"
+                ],
+                "answer": "Quadriceps"
+            },
+            {
+                "question": "Which lifting technique focuses on the slow lowering phase?",
+                "choices": [
+                    "Eccentric",
+                    "Isometric",
+                    "Concentric",
+                    "Static"
+                ],
+                "answer": "Eccentric"
+            },
+            {
+                "question": "Which hormone supports muscle growth and repair?",
+                "choices": [
+                    "Testosterone",
+                    "Insulin",
+                    "Cortisol",
+                    "Adrenaline"
+                ],
+                "answer": "Testosterone"
+            },
+            {
+                "question": "What is the term for the range of motion during an exercise?",
+                "choices": [
+                    "ROM",
+                    "TUT",
+                    "RPE",
+                    "DOMS"
+                ],
+                "answer": "ROM"
+            },
+            {
+                "question": "Which supplement is commonly used to improve joint health?",
+                "choices": [
+                    "Glucosamine",
+                    "Creatine",
+                    "Whey Protein",
+                    "Caffeine"
+                ],
+                "answer": "Glucosamine"
+            },
+            {
+                "question": "Which exercise targets the latissimus dorsi muscles?",
+                "choices": [
+                    "Lat Pulldown",
+                    "Leg Press",
+                    "Bench Press",
+                    "Shrugs"
+                ],
+                "answer": "Lat Pulldown"
+            },
+            {
+                "question": "What type of protein is absorbed quickly after a workout?",
+                "choices": [
+                    "Whey",
+                    "Casein",
+                    "Soy",
+                    "Egg"
+                ],
+                "answer": "Whey"
+            },
+            {
+                "question": "Which exercise is a compound movement?",
+                "choices": [
+                    "Deadlift",
+                    "Bicep Curl",
+                    "Leg Extension",
+                    "Triceps Kickback"
+                ],
+                "answer": "Deadlift"
+            }
+        ],
+        "hard": [
+            {
+                "question": "Who is considered the father of modern bodybuilding?",
+                "choices": [
+                    "Eugen Sandow",
+                    "Arnold Schwarzenegger",
+                    "Lou Ferrigno",
+                    "Jay Cutler"
+                ],
+                "answer": "Eugen Sandow"
+            },
+            {
+                "question": "The Valsalva maneuver involves:",
+                "choices": [
+                    "Holding breath during lifts",
+                    "Stretching after lifts",
+                    "Eating before workouts",
+                    "Measuring body fat"
+                ],
+                "answer": "Holding breath during lifts"
+            },
+            {
+                "question": "What is sarcoplasmic hypertrophy?",
+                "choices": [
+                    "Growth of muscle glycogen storage",
+                    "Growth of muscle fibers",
+                    "Increase in joint size",
+                    "Tendon flexibility"
+                ],
+                "answer": "Growth of muscle glycogen storage"
+            },
+            {
+                "question": "What is the function of myostatin?",
+                "choices": [
+                    "Limits muscle growth",
+                    "Promotes growth",
+                    "Increases testosterone",
+                    "Regulates hydration"
+                ],
+                "answer": "Limits muscle growth"
+            },
+            {
+                "question": "Which vitamin is synthesized through sunlight exposure?",
+                "choices": [
+                    "Vitamin D",
+                    "Vitamin B12",
+                    "Vitamin C",
+                    "Vitamin A"
+                ],
+                "answer": "Vitamin D"
+            },
+            {
+                "question": "Which Olympic lift involves squatting under the barbell?",
+                "choices": [
+                    "Snatch",
+                    "Push press",
+                    "Strict press",
+                    "Row"
+                ],
+                "answer": "Snatch"
+            },
+            {
+                "question": "Which lifting technique reduces momentum to isolate muscle?",
+                "choices": [
+                    "Strict form",
+                    "Cheat reps",
+                    "Supersets",
+                    "Negative reps"
+                ],
+                "answer": "Strict form"
+            },
+            {
+                "question": "Which amino acid is essential for muscle repair?",
+                "choices": [
+                    "Leucine",
+                    "Aspartate",
+                    "Histidine",
+                    "Tyrosine"
+                ],
+                "answer": "Leucine"
+            },
+            {
+                "question": "Where are the trapezius muscles located?",
+                "choices": [
+                    "Upper back",
+                    "Legs",
+                    "Lower back",
+                    "Forearms"
+                ],
+                "answer": "Upper back"
+            },
+            {
+                "question": "What does RPE stand for?",
+                "choices": [
+                    "Rate of Perceived Exertion",
+                    "Resistance per Effort",
+                    "Rep Pace Estimation",
+                    "Range Power Equation"
+                ],
+                "answer": "Rate of Perceived Exertion"
+            },
+            {
+                "question": "Which process describes the increase in muscle size from resistance training?",
+                "choices": [
+                    "Hypertrophy",
+                    "Atrophy",
+                    "Osteogenesis",
+                    "Hyperplasia"
+                ],
+                "answer": "Hypertrophy"
+            },
+            {
+                "question": "Which molecule is the body's primary energy currency?",
+                "choices": [
+                    "ATP",
+                    "ADP",
+                    "Creatine",
+                    "Glucose"
+                ],
+                "answer": "ATP"
+            },
+            {
+                "question": "What does RPE stand for in training?",
+                "choices": [
+                    "Rate of Perceived Exertion",
+                    "Resting Pulse Estimate",
+                    "Reps Per Exercise",
+                    "Recovery Phase Evaluation"
+                ],
+                "answer": "Rate of Perceived Exertion"
+            },
+            {
+                "question": "Which muscle lies underneath the biceps?",
+                "choices": [
+                    "Brachialis",
+                    "Triceps",
+                    "Deltoid",
+                    "Supinator"
+                ],
+                "answer": "Brachialis"
+            },
+            {
+                "question": "Which organ produces testosterone in males?",
+                "choices": [
+                    "Testes",
+                    "Adrenal glands",
+                    "Pancreas",
+                    "Thyroid"
+                ],
+                "answer": "Testes"
+            },
+            {
+                "question": "Which professional bodybuilder has won the most Mr. Olympia titles?",
+                "choices": [
+                    "Ronnie Coleman",
+                    "Lee Haney",
+                    "Arnold Schwarzenegger",
+                    "Phil Heath"
+                ],
+                "answer": "Ronnie Coleman"
+            },
+            {
+                "question": "What does the Valsalva maneuver involve during lifting?",
+                "choices": [
+                    "Breath-holding to stabilize core",
+                    "Sudden exhale for speed",
+                    "Stretching before reps",
+                    "Quick inhale before reps"
+                ],
+                "answer": "Breath-holding to stabilize core"
+            },
+            {
+                "question": "Which type of fiber is used most in explosive movements?",
+                "choices": [
+                    "Fast-twitch",
+                    "Slow-twitch",
+                    "Red fibers",
+                    "Endurance fibers"
+                ],
+                "answer": "Fast-twitch"
+            },
+            {
+                "question": "Which macronutrient is most calorie-dense?",
+                "choices": [
+                    "Fat",
+                    "Protein",
+                    "Carbohydrates",
+                    "Fiber"
+                ],
+                "answer": "Fat"
+            },
+            {
+                "question": "What mineral is key for muscle contraction?",
+                "choices": [
+                    "Calcium",
+                    "Iron",
+                    "Zinc",
+                    "Magnesium"
+                ],
+                "answer": "Calcium"
+            }
+        ],
+        "impossible": [
+            {
+                "question": "Which protein isoform is specifically upregulated in response to eccentric training?",
+                "choices": [
+                    "Myosin heavy chain IIx",
+                    "Actin",
+                    "Tropomyosin",
+                    "Myosin light chain 2"
+                ],
+                "answer": "Myosin heavy chain IIx"
+            },
+            {
+                "question": "Name the supplement derived from Russian cosmonaut training programs that claims to enhance neuromuscular adaptation.",
+                "choices": [
+                    "BPC-157",
+                    "Phenotropil",
+                    "Creatine",
+                    "Ecdysterone"
+                ],
+                "answer": "Phenotropil"
+            },
+            {
+                "question": "What is the exact biochemical pathway that Testosterone signals to enhance protein synthesis in muscle cells?",
+                "choices": [
+                    "mTOR pathway",
+                    "AMPK pathway",
+                    "Glycolysis",
+                    "Krebs cycle"
+                ],
+                "answer": "mTOR pathway"
+            },
+            {
+                "question": "Which genetic polymorphism has been linked to an enhanced response to creatine supplementation?",
+                "choices": [
+                    "IGF-1",
+                    "ACTN3",
+                    "MSTN",
+                    "PPARG"
+                ],
+                "answer": "ACTN3"
+            }
+        ]
+    },
+    "general": {
+        "easy": [
+            {
+                "question": "What is the capital of France?",
+                "choices": [
+                    "Paris",
+                    "Berlin",
+                    "Madrid",
+                    "Rome"
+                ],
+                "answer": "Paris"
+            },
+            {
+                "question": "How many continents are there?",
+                "choices": [
+                    "7",
+                    "5",
+                    "6",
+                    "8"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": "What color is the sun?",
+                "choices": [
+                    "Yellow",
+                    "Red",
+                    "Blue",
+                    "White"
+                ],
+                "answer": "White"
+            },
+            {
+                "question": "How many days are in a week?",
+                "choices": [
+                    "7",
+                    "5",
+                    "10",
+                    "6"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": "What planet do we live on?",
+                "choices": [
+                    "Earth",
+                    "Mars",
+                    "Venus",
+                    "Jupiter"
+                ],
+                "answer": "Earth"
+            },
+            {
+                "question": "Which animal is known as man's best friend?",
+                "choices": [
+                    "Dog",
+                    "Cat",
+                    "Horse",
+                    "Elephant"
+                ],
+                "answer": "Dog"
+            },
+            {
+                "question": "Which season comes after summer?",
+                "choices": [
+                    "Autumn",
+                    "Spring",
+                    "Winter",
+                    "Fall"
+                ],
+                "answer": "Autumn"
+            },
+            {
+                "question": "How many hours are in a day?",
+                "choices": [
+                    "24",
+                    "12",
+                    "48",
+                    "36"
+                ],
+                "answer": "24"
+            },
+            {
+                "question": "How many legs does a spider have?",
+                "choices": [
+                    "8",
+                    "6",
+                    "10",
+                    "4"
+                ],
+                "answer": "8"
+            },
+            {
+                "question": "What gas do we breathe in to survive?",
+                "choices": [
+                    "Oxygen",
+                    "Carbon Dioxide",
+                    "Nitrogen",
+                    "Hydrogen"
+                ],
+                "answer": "Oxygen"
+            },
+            {
+                "question": "Which animal says 'moo'?",
+                "choices": [
+                    "Cow",
+                    "Dog",
+                    "Cat",
+                    "Sheep"
+                ],
+                "answer": "Cow"
+            },
+            {
+                "question": "What is the freezing point of water?",
+                "choices": [
+                    "0\u00b0C",
+                    "32\u00b0C",
+                    "100\u00b0C",
+                    "-5\u00b0C"
+                ],
+                "answer": "0\u00b0C"
+            },
+            {
+                "question": "How many wheels does a bicycle have?",
+                "choices": [
+                    "2",
+                    "3",
+                    "4",
+                    "1"
+                ],
+                "answer": "2"
+            },
+            {
+                "question": "What shape is a football field?",
+                "choices": [
+                    "Rectangle",
+                    "Circle",
+                    "Triangle",
+                    "Oval"
+                ],
+                "answer": "Rectangle"
+            },
+            {
+                "question": "What do humans breathe out?",
+                "choices": [
+                    "Carbon Dioxide",
+                    "Oxygen",
+                    "Nitrogen",
+                    "Hydrogen"
+                ],
+                "answer": "Carbon Dioxide"
+            },
+            {
+                "question": "Which animal is the king of the jungle?",
+                "choices": [
+                    "Lion",
+                    "Tiger",
+                    "Bear",
+                    "Giraffe"
+                ],
+                "answer": "Lion"
+            },
+            {
+                "question": "What is the opposite of 'cold'?",
+                "choices": [
+                    "Hot",
+                    "Cool",
+                    "Wet",
+                    "Soft"
+                ],
+                "answer": "Hot"
+            },
+            {
+                "question": "What day comes before Saturday?",
+                "choices": [
+                    "Friday",
+                    "Thursday",
+                    "Sunday",
+                    "Monday"
+                ],
+                "answer": "Friday"
+            },
+            {
+                "question": "What is the capital of Italy?",
+                "choices": [
+                    "Rome",
+                    "Paris",
+                    "Athens",
+                    "Madrid"
+                ],
+                "answer": "Rome"
+            },
+            {
+                "question": "What do you call a person who writes books?",
+                "choices": [
+                    "Author",
+                    "Painter",
+                    "Chef",
+                    "Actor"
+                ],
+                "answer": "Author"
+            }
+        ],
+        "medium": [
+            {
+                "question": "What is the largest ocean?",
+                "choices": [
+                    "Pacific",
+                    "Atlantic",
+                    "Indian",
+                    "Arctic"
+                ],
+                "answer": "Pacific"
+            },
+            {
+                "question": "What is the boiling point of water in Celsius?",
+                "choices": [
+                    "100",
+                    "90",
+                    "120",
+                    "80"
+                ],
+                "answer": "100"
+            },
+            {
+                "question": "Who painted the Mona Lisa?",
+                "choices": [
+                    "Leonardo da Vinci",
+                    "Van Gogh",
+                    "Picasso",
+                    "Rembrandt"
+                ],
+                "answer": "Leonardo da Vinci"
+            },
+            {
+                "question": "What is the hardest natural substance?",
+                "choices": [
+                    "Diamond",
+                    "Gold",
+                    "Iron",
+                    "Quartz"
+                ],
+                "answer": "Diamond"
+            },
+            {
+                "question": "What does DNA stand for?",
+                "choices": [
+                    "Deoxyribonucleic Acid",
+                    "Dinucleic Acid",
+                    "Deoxyribose Nucleic Atom",
+                    "Double Nucleotide Acid"
+                ],
+                "answer": "Deoxyribonucleic Acid"
+            },
+            {
+                "question": "What is the largest planet?",
+                "choices": [
+                    "Jupiter",
+                    "Saturn",
+                    "Earth",
+                    "Mars"
+                ],
+                "answer": "Jupiter"
+            },
+            {
+                "question": "Which country is known as the Land of the Rising Sun?",
+                "choices": [
+                    "Japan",
+                    "China",
+                    "Thailand",
+                    "India"
+                ],
+                "answer": "Japan"
+            },
+            {
+                "question": "How many bones are in the adult human body?",
+                "choices": [
+                    "206",
+                    "201",
+                    "208",
+                    "210"
+                ],
+                "answer": "206"
+            },
+            {
+                "question": "Which language is spoken in Brazil?",
+                "choices": [
+                    "Portuguese",
+                    "Spanish",
+                    "French",
+                    "English"
+                ],
+                "answer": "Portuguese"
+            },
+            {
+                "question": "What do bees produce?",
+                "choices": [
+                    "Honey",
+                    "Milk",
+                    "Wax",
+                    "Oil"
+                ],
+                "answer": "Honey"
+            },
+            {
+                "question": "What is the smallest planet in our solar system?",
+                "choices": [
+                    "Mercury",
+                    "Mars",
+                    "Venus",
+                    "Pluto"
+                ],
+                "answer": "Mercury"
+            },
+            {
+                "question": "Which country is home to the Great Barrier Reef?",
+                "choices": [
+                    "Australia",
+                    "Brazil",
+                    "South Africa",
+                    "Thailand"
+                ],
+                "answer": "Australia"
+            },
+            {
+                "question": "Which scientist developed the theory of general relativity?",
+                "choices": [
+                    "Albert Einstein",
+                    "Isaac Newton",
+                    "Nikola Tesla",
+                    "Stephen Hawking"
+                ],
+                "answer": "Albert Einstein"
+            },
+            {
+                "question": "What does 'www' stand for in a website browser?",
+                "choices": [
+                    "World Wide Web",
+                    "Web World Window",
+                    "Wireless Web Window",
+                    "World Web Wide"
+                ],
+                "answer": "World Wide Web"
+            },
+            {
+                "question": "Which element has the chemical symbol 'Na'?",
+                "choices": [
+                    "Sodium",
+                    "Nitrogen",
+                    "Neon",
+                    "Nickel"
+                ],
+                "answer": "Sodium"
+            },
+            {
+                "question": "Who was the first President of the United States?",
+                "choices": [
+                    "George Washington",
+                    "Thomas Jefferson",
+                    "Abraham Lincoln",
+                    "John Adams"
+                ],
+                "answer": "George Washington"
+            },
+            {
+                "question": "How many colors are there in a rainbow?",
+                "choices": [
+                    "7",
+                    "6",
+                    "8",
+                    "5"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": "Which is the longest river in the world?",
+                "choices": [
+                    "Nile",
+                    "Amazon",
+                    "Yangtze",
+                    "Mississippi"
+                ],
+                "answer": "Nile"
+            },
+            {
+                "question": "What is the hardest natural substance on Earth?",
+                "choices": [
+                    "Diamond",
+                    "Gold",
+                    "Iron",
+                    "Quartz"
+                ],
+                "answer": "Diamond"
+            },
+            {
+                "question": "What type of animal is a Komodo dragon?",
+                "choices": [
+                    "Lizard",
+                    "Snake",
+                    "Crocodile",
+                    "Turtle"
+                ],
+                "answer": "Lizard"
+            }
+        ],
+        "hard": [
+            {
+                "question": "What is the square root of 144?",
+                "choices": [
+                    "12",
+                    "14",
+                    "11",
+                    "13"
+                ],
+                "answer": "12"
+            },
+            {
+                "question": "What year did World War II end?",
+                "choices": [
+                    "1945",
+                    "1940",
+                    "1939",
+                    "1950"
+                ],
+                "answer": "1945"
+            },
+            {
+                "question": "Who developed the theory of relativity?",
+                "choices": [
+                    "Albert Einstein",
+                    "Isaac Newton",
+                    "Nikola Tesla",
+                    "Stephen Hawking"
+                ],
+                "answer": "Albert Einstein"
+            },
+            {
+                "question": "What is the chemical symbol for gold?",
+                "choices": [
+                    "Au",
+                    "Ag",
+                    "Gd",
+                    "Go"
+                ],
+                "answer": "Au"
+            },
+            {
+                "question": "Who is the Greek god of the sea?",
+                "choices": [
+                    "Poseidon",
+                    "Zeus",
+                    "Ares",
+                    "Apollo"
+                ],
+                "answer": "Poseidon"
+            },
+            {
+                "question": "What is the capital of Canada?",
+                "choices": [
+                    "Ottawa",
+                    "Toronto",
+                    "Montreal",
+                    "Vancouver"
+                ],
+                "answer": "Ottawa"
+            },
+            {
+                "question": "How many elements are in the periodic table?",
+                "choices": [
+                    "118",
+                    "112",
+                    "120",
+                    "105"
+                ],
+                "answer": "118"
+            },
+            {
+                "question": "Which famous scientist wrote 'Principia Mathematica'?",
+                "choices": [
+                    "Isaac Newton",
+                    "Galileo",
+                    "Darwin",
+                    "Copernicus"
+                ],
+                "answer": "Isaac Newton"
+            },
+            {
+                "question": "Who was the first person to walk on the moon?",
+                "choices": [
+                    "Neil Armstrong",
+                    "Buzz Aldrin",
+                    "Yuri Gagarin",
+                    "Michael Collins"
+                ],
+                "answer": "Neil Armstrong"
+            },
+            {
+                "question": "Which planet has the most moons?",
+                "choices": [
+                    "Saturn",
+                    "Jupiter",
+                    "Neptune",
+                    "Mars"
+                ],
+                "answer": "Saturn"
+            },
+            {
+                "question": "What is the capital of Iceland?",
+                "choices": [
+                    "Reykjavik",
+                    "Oslo",
+                    "Helsinki",
+                    "Copenhagen"
+                ],
+                "answer": "Reykjavik"
+            },
+            {
+                "question": "In computing, what does 'CPU' stand for?",
+                "choices": [
+                    "Central Processing Unit",
+                    "Computer Performance Utility",
+                    "Core Program Unit",
+                    "Centralized Programming Utility"
+                ],
+                "answer": "Central Processing Unit"
+            },
+            {
+                "question": "What is the powerhouse of the cell?",
+                "choices": [
+                    "Mitochondria",
+                    "Nucleus",
+                    "Ribosome",
+                    "Chloroplast"
+                ],
+                "answer": "Mitochondria"
+            },
+            {
+                "question": "Who painted the ceiling of the Sistine Chapel?",
+                "choices": [
+                    "Michelangelo",
+                    "Da Vinci",
+                    "Raphael",
+                    "Donatello"
+                ],
+                "answer": "Michelangelo"
+            },
+            {
+                "question": "Which gas makes up most of the Earth's atmosphere?",
+                "choices": [
+                    "Nitrogen",
+                    "Oxygen",
+                    "Carbon Dioxide",
+                    "Argon"
+                ],
+                "answer": "Nitrogen"
+            },
+            {
+                "question": "What is the main language spoken in Argentina?",
+                "choices": [
+                    "Spanish",
+                    "Portuguese",
+                    "Italian",
+                    "French"
+                ],
+                "answer": "Spanish"
+            },
+            {
+                "question": "Which is the largest internal organ in the human body?",
+                "choices": [
+                    "Liver",
+                    "Heart",
+                    "Lung",
+                    "Intestine"
+                ],
+                "answer": "Liver"
+            },
+            {
+                "question": "Who developed the laws of motion?",
+                "choices": [
+                    "Isaac Newton",
+                    "Galileo",
+                    "Einstein",
+                    "Kepler"
+                ],
+                "answer": "Isaac Newton"
+            },
+            {
+                "question": "Which element is needed for the production of nuclear energy?",
+                "choices": [
+                    "Uranium",
+                    "Helium",
+                    "Hydrogen",
+                    "Silicon"
+                ],
+                "answer": "Uranium"
+            },
+            {
+                "question": "How many bones are in the adult human body?",
+                "choices": [
+                    "206",
+                    "201",
+                    "208",
+                    "210"
+                ],
+                "answer": "206"
+            }
+        ],
+        "impossible": [
+            {
+                "question": "What is the term for the rare geological phenomenon where river water spontaneously turns bright pink for several hours?",
+                "choices": [
+                    "Pink tide",
+                    "Rose flush",
+                    "Crimson bloom",
+                    "Red wave"
+                ],
+                "answer": "Crimson bloom"
+            },
+            {
+                "question": "Name the mathematician who proved the existence of non-computable numbers.",
+                "choices": [
+                    "Alan Turing",
+                    "John von Neumann",
+                    "Kurt G\u00f6del",
+                    "Georg Cantor"
+                ],
+                "answer": "Alan Turing"
+            },
+            {
+                "question": "Identify the artifact discovered in 1963 that provides evidence of the earliest known form of writing, predating Sumerian cuneiform.",
+                "choices": [
+                    "Phaistos Disc",
+                    "Rosetta Stone",
+                    "T\u0103rt\u0103ria tablets",
+                    "Elamite tablets"
+                ],
+                "answer": "T\u0103rt\u0103ria tablets"
+            },
+            {
+                "question": "What specific isotope of carbon is used in the ultra-precise dating of archaeological remains beyond 50,000 years old?",
+                "choices": [
+                    "Carbon-12",
+                    "Carbon-13",
+                    "Carbon-14",
+                    "Carbon-15"
+                ],
+                "answer": "Carbon-14"
+            },
+            {
+                "question": "Which quantum mechanical phenomenon explains the stabilization of helium-4 nuclei at low temperatures?",
+                "choices": [
+                    "Superfluidity",
+                    "Bose-Einstein Condensation",
+                    "Quantum entanglement",
+                    "Fermionic condensation"
+                ],
+                "answer": "Bose-Einstein Condensation"
+            },
+            {
+                "question": "Name the treaty that led to the establishment of the first international time zone system in 1884.",
+                "choices": [
+                    "Treaty of Greenwich",
+                    "International Meridian Conference agreement",
+                    "Treaty of Washington",
+                    "Universal Time Convention"
+                ],
+                "answer": "International Meridian Conference agreement"
+            },
+            {
+                "question": "What is the rarest documented weather condition, observed only over bodies of water in the Arctic and Antarctic?",
+                "choices": [
+                    "Brinicles",
+                    "Ice flowers",
+                    "Frost smoke",
+                    "Snow cannons"
+                ],
+                "answer": "Brinicles"
+            },
+            {
+                "question": "Identify the physicist who first proposed the concept of 'dark matter' in the context of galaxy rotation speeds.",
+                "choices": [
+                    "Vera Rubin",
+                    "Fritz Zwicky",
+                    "Henrietta Leavitt",
+                    "Edwin Hubble"
+                ],
+                "answer": "Fritz Zwicky"
+            },
+            {
+                "question": "Name the algorithm that can solve the traveling salesman problem in polynomial time, if one exists.",
+                "choices": [
+                    "Dijkstra's algorithm",
+                    "Bellman-Ford algorithm",
+                    "P=NP solver",
+                    "None exists"
+                ],
+                "answer": "None exists"
+            },
+            {
+                "question": "Which disease was first identified as a distinct condition by a Roman physician in the 2nd century AD, based on descriptions of symptoms?",
+                "choices": [
+                    "Gout",
+                    "Malaria",
+                    "Tuberculosis",
+                    "Scurvy"
+                ],
+                "answer": "Gout"
+            },
+            {
+                "question": "What is the name of the most distant object ever observed by telescope, located in the observable universe's edge?",
+                "choices": [
+                    "GN-z11",
+                    "Earendel",
+                    "MACS0647-JD",
+                    "UDFy-38135539"
+                ],
+                "answer": "GN-z11"
+            },
+            {
+                "question": "Identify the philosopher who introduced the idea of 'linguistic relativity' in the early 20th century.",
+                "choices": [
+                    "Ludwig Wittgenstein",
+                    "Noam Chomsky",
+                    "Benjamin Lee Whorf",
+                    "Edward Sapir"
+                ],
+                "answer": "Benjamin Lee Whorf"
+            },
+            {
+                "question": "Which chemical element, when isolated in a pure monatomic form, exhibits superconductivity at temperatures above 100 K?",
+                "choices": [
+                    "Neon",
+                    "Xenon",
+                    "Hydrogen",
+                    "Nitrogen"
+                ],
+                "answer": "Hydrogen"
+            },
+            {
+                "question": "Name the first artificial satellite to successfully measure the Earth's gravitational anomalies.",
+                "choices": [
+                    "Sputnik 1",
+                    "GRACE",
+                    "GOCE",
+                    "LAGEOS"
+                ],
+                "answer": "GOCE"
+            },
+            {
+                "question": "What is the term for the economic theory that proposes that hyperinflation can lead to a stable, alternative non-monetary economy?",
+                "choices": [
+                    "Cryptoeconomics",
+                    "Hypermonetization",
+                    "Chartalism",
+                    "Barter system theory"
+                ],
+                "answer": "Barter system theory"
+            },
+            {
+                "question": "Identify the novel that was written using only one vowel throughout the entire text.",
+                "choices": [
+                    "Gadsby",
+                    "A Void",
+                    "Eunoia",
+                    "Lipogram"
+                ],
+                "answer": "Eunoia"
+            },
+            {
+                "question": "What is the name of the extinct language that was only spoken on one small island in the South Pacific, discovered in 1777?",
+                "choices": [
+                    "Rapa Nui",
+                    "Dusner",
+                    "Tasmanian",
+                    "Moriori"
+                ],
+                "answer": "Moriori"
+            },
+            {
+                "question": "Which species of bird is known to migrate over 12,000 kilometers twice a year, the longest recorded distance for any animal?",
+                "choices": [
+                    "Arctic tern",
+                    "Albatross",
+                    "Canadian goose",
+                    "Red knot"
+                ],
+                "answer": "Arctic tern"
+            },
+            {
+                "question": "Name the first computer virus that was specifically designed to target industrial control systems.",
+                "choices": [
+                    "ILOVEYOU",
+                    "Stuxnet",
+                    "Conficker",
+                    "Mydoom"
+                ],
+                "answer": "Stuxnet"
+            },
+            {
+                "question": "What astronomical event was first predicted by the application of Einstein's theory of general relativity?",
+                "choices": [
+                    "Black holes",
+                    "Gravitational waves",
+                    "The perihelion precession of Mercury",
+                    "The bending of light by gravity"
+                ],
+                "answer": "The bending of light by gravity"
+            }
+        ]
+    }
+}
